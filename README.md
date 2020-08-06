@@ -10,4 +10,4 @@ https://www.kaggle.com/ashokpant/devanagari-character-dataset-large?
 http://ashokpant.github.io/publications/ashok_2015_deep.pdf
 <h1>Accuracy</h1>
 <hr />
-<p>Test accuracy : **98.55% **.</p>
+<p>Test accuracy : <strong>98.55 %</strong></p>
