@@ -6,7 +6,7 @@ The **DHCD** (Devnagari Character Dataset) of handwritten digits. It consists 46
 https://www.kaggle.com/ashokpant/devanagari-character-dataset-large?
 <h1><strong>Reference:</strong></h1>
 <hr />
-<p>Ashok Kumar Pant, Prashnna Kumar Gyawal, Shailesh Acharya,&rdquo;Deep Learning Based Large Scale Handwritten Devanagari Character Recognition&rdquo; Proceeding of 9th International Conference on Software, Knowledge, Information Management &amp; Applications. In Press.</p>
+<p>Ashok Kumar Pant, Prashnna Kumar Gyawal, Shailesh Acharya,&rdquo;<strong>Deep Learning Based Large Scale Handwritten Devanagari Character Recognition&rdquo; Proceeding of 9th International Conference on Software, Knowledge, Information Management &amp; Applications.</strong></p>
 http://ashokpant.github.io/publications/ashok_2015_deep.pdf
 <h1>Accuracy</h1>
 <hr />
